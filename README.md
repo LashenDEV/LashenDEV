@@ -9,9 +9,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lashenkariyawasam" alt="lashenkariyawasam" /></a> </p>
 
-- 🌱 I’m currently learning **React JS and Flutter**
+- 🌱 I’m currently learning **React JS, Laravel and Flutter**
 
-- 💬 Ask me about **react, js, flutter**
+- 💬 Ask me about **react, js, laravel and flutter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
