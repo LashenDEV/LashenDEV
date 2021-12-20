@@ -32,6 +32,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lashenkariyawasam&" alt="lashenkariyawasam" /></p>
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 
