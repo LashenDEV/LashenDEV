@@ -34,8 +34,6 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lashenkariyawasam&theme=tokyonight" alt="lashenkariyawasam" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2043%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-883%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -109,7 +107,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 24/12/2021
+ Last Updated on 25/12/2021
 <!--END_SECTION:waka-->
 
 
