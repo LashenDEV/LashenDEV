@@ -34,8 +34,6 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lashenkariyawasam&theme=tokyonight" alt="lashenkariyawasam" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2054%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-884%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
