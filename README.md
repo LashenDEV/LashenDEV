@@ -79,15 +79,13 @@ Sunday       86 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-HTML                     2 hrs 48 mins       ███████████████████████░░   94.1% 
-JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+No Activity Tracked This Week
 
 🔥 Editors: 
-PhpStorm                 2 hrs 59 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 59 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -104,7 +102,7 @@ CSS                      4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 09/11/2022
+ Last Updated on 10/11/2022
 <!--END_SECTION:waka-->
 
 
