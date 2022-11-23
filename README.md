@@ -42,7 +42,7 @@
 
 > 🏆 980 Contributions in the Year 2022
  > 
-> 📦 220.2 kB Used in GitHub's Storage 
+> 📦 220.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -102,7 +102,7 @@ CSS                      4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 22/11/2022
+ Last Updated on 23/11/2022
 <!--END_SECTION:waka-->
 
 
