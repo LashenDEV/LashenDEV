@@ -34,13 +34,13 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LashenDEV&theme=tokyonight" alt="LashenDEV" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-745%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-748%20hrs%208%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 999 Contributions in the Year 2022
+> 🏆 1,000 Contributions in the Year 2022
  > 
 > 📦 220.7 kB Used in GitHub's Storage 
  > 
@@ -79,16 +79,16 @@ Sunday       89 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Blade Template           53 mins             ████████████░░░░░░░░░░░░░   49.72% 
-PHP                      52 mins             ████████████░░░░░░░░░░░░░   48.31% 
-GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.69% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28%
+PHP                      2 hrs 2 mins        █████████████░░░░░░░░░░░░   51.71% 
+Blade Template           1 hr 52 mins        ███████████░░░░░░░░░░░░░░   47.4% 
+GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.77% 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
 
 🔥 Editors: 
-PhpStorm                 1 hr 48 mins        █████████████████████████   100.0%
+PhpStorm                 3 hrs 57 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    1 hr 48 mins        █████████████████████████   100.0%
+Linux                    3 hrs 57 mins       █████████████████████████   100.0%
 
 ```
 
@@ -105,7 +105,7 @@ CSS                      4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 29/11/2022
+ Last Updated on 30/11/2022
 <!--END_SECTION:waka-->
 
 
