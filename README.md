@@ -34,13 +34,13 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LashenDEV&theme=tokyonight" alt="LashenDEV" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-758%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-761%20hrs%2020%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,027 Contributions in the Year 2022
+> 🏆 1,028 Contributions in the Year 2022
  > 
 > 📦 332.9 kB Used in GitHub's Storage 
  > 
@@ -79,17 +79,17 @@ Sunday       91 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-PHP                      2 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   28.79% 
-Blade Template           1 hr 58 mins        █████░░░░░░░░░░░░░░░░░░░░   22.79% 
-JavaScript               1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.68% 
-HTML                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.41% 
-Text                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.93%
+Blade Template           3 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   33.15% 
+PHP                      3 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   28.63% 
+JavaScript               1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.96% 
+HTML                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.22% 
+Text                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.05%
 
 🔥 Editors: 
-PhpStorm                 8 hrs 39 mins       █████████████████████████   100.0%
+PhpStorm                 10 hrs 57 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    8 hrs 39 mins       █████████████████████████   100.0%
+Linux                    10 hrs 57 mins      █████████████████████████   100.0%
 
 ```
 
@@ -106,7 +106,7 @@ CSS                      4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 08/12/2022
+ Last Updated on 09/12/2022
 <!--END_SECTION:waka-->
 
 
