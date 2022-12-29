@@ -34,7 +34,7 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LashenDEV&theme=tokyonight" alt="LashenDEV" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-773%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-773%20hrs%2046%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6%20Million%20lines%20of%20code-blue)
 
@@ -42,7 +42,7 @@
 
 > 🏆 1,043 Contributions in the Year 2022
  > 
-> 📦 340.7 kB Used in GitHub's Storage 
+> 📦 340.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -79,20 +79,20 @@ Sunday       93 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-JSON                     37 mins             █████████████████████████   100.0%
+JSON                     40 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-PhpStorm                 37 mins             █████████████████████████   100.0%
+PhpStorm                 40 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    37 mins             █████████████████████████   100.0%
+Linux                    40 mins             █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in PHP** 
 
 ```text
-PHP                      13 repos            ██████░░░░░░░░░░░░░░░░░░░   26.0% 
+PHP                      14 repos            ███████░░░░░░░░░░░░░░░░░░   28.0% 
 JavaScript               12 repos            ██████░░░░░░░░░░░░░░░░░░░   24.0% 
 Java                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.0% 
 HTML                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
@@ -102,7 +102,7 @@ CSS                      4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 28/12/2022
+ Last Updated on 29/12/2022
 <!--END_SECTION:waka-->
 
 
