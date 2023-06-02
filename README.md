@@ -34,7 +34,7 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LashenDEV&theme=tokyonight" alt="LashenDEV" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-988%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-990%20hrs%2012%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6%20Million%20lines%20of%20code-blue)
 
@@ -42,7 +42,7 @@
 
 > 🏆 375 Contributions in the Year 2023
  > 
-> 📦 408.4 kB Used in GitHub's Storage 
+> 📦 408.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -79,17 +79,16 @@ Sunday       64 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-PHP                      18 hrs 12 mins      █████████████████████████   99.84% 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15% 
+PHP                      12 hrs 19 mins      █████████████████████████   99.99% 
 .env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01% 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-PhpStorm                 18 hrs 14 mins      █████████████████████████   100.0%
+PhpStorm                 12 hrs 19 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    18 hrs 14 mins      █████████████████████████   100.0%
+Linux                    12 hrs 19 mins      █████████████████████████   100.0%
 
 ```
 
@@ -106,7 +105,7 @@ CSS                      4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/06/2023
+ Last Updated on 02/06/2023
 <!--END_SECTION:waka-->
 
 
