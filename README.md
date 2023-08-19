@@ -79,14 +79,13 @@ Sunday       25 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-PHP                      0 secs              █████████████████░░░░░░░░   67.79% 
-Blade Template           0 secs              ████████░░░░░░░░░░░░░░░░░   32.21%
+No Activity Tracked This Week
 
 🔥 Editors: 
-PhpStorm                 0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -103,7 +102,7 @@ CSS                      5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 18/08/2023
+ Last Updated on 19/08/2023
 <!--END_SECTION:waka-->
 
 
