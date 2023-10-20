@@ -34,7 +34,7 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LashenDEV&theme=tokyonight" alt="LashenDEV" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C097%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C097%20hrs%2018%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6%20Million%20lines%20of%20code-blue)
 
@@ -79,8 +79,8 @@ Sunday       20 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-HTML                     6 hrs 28 mins       ████████████████░░░░░░░░░   64.87% 
-Blade Template           1 hr 59 mins        █████░░░░░░░░░░░░░░░░░░░░   19.99% 
+HTML                     6 hrs 28 mins       ████████████████░░░░░░░░░   64.81% 
+Blade Template           2 hrs               █████░░░░░░░░░░░░░░░░░░░░   20.06% 
 PHP                      46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.81% 
 Bash                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.06% 
 XML                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.18%
@@ -106,7 +106,7 @@ CSS                      6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2023
+ Last Updated on 20/10/2023
 <!--END_SECTION:waka-->
 
 
