@@ -34,7 +34,7 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LashenDEV&theme=tokyonight" alt="LashenDEV" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C152%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C153%20hrs%2052%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6%20Million%20lines%20of%20code-blue)
 
@@ -42,7 +42,7 @@
 
 > 🏆 518 Contributions in the Year 2023
  > 
-> 📦 428.5 kB Used in GitHub's Storage 
+> 📦 428.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -79,30 +79,31 @@ Sunday       39 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     1 hr 28 mins        ██████████████████████░░░   90.7% 
+CSS                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.3%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 38 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 38 mins        █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in PHP** 
 
 ```text
-PHP                      18 repos            ███████░░░░░░░░░░░░░░░░░░   28.57% 
-JavaScript               15 repos            ██████░░░░░░░░░░░░░░░░░░░   23.81% 
-HTML                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Java                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-CSS                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52%
+PHP                      18 repos            ███████░░░░░░░░░░░░░░░░░░   28.12% 
+JavaScript               15 repos            █████░░░░░░░░░░░░░░░░░░░░   23.44% 
+HTML                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.94% 
+Java                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.94% 
+CSS                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.38%
 
 ```
 
 
 
- Last Updated on 29/11/2023
+ Last Updated on 30/11/2023
 <!--END_SECTION:waka-->
 
 
