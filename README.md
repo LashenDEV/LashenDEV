@@ -34,13 +34,13 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LashenDEV&theme=tokyonight" alt="LashenDEV" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C164%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C165%20hrs%208%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 518 Contributions in the Year 2023
+> 🏆 0 Contributions in the Year 2024
  > 
 > 📦 428.6 kB Used in GitHub's Storage 
  > 
@@ -79,15 +79,15 @@ Sunday       37 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Blade Template           14 mins             ███████████████████████░░   93.31% 
-PHP                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   6.15% 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.54%
+Blade Template           45 mins             ████████████████████████░   97.77% 
+PHP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.05% 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.18%
 
 🔥 Editors: 
-VS Code                  15 mins             █████████████████████████   100.0%
+VS Code                  46 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    15 mins             █████████████████████████   100.0%
+Linux                    46 mins             █████████████████████████   100.0%
 
 ```
 
@@ -104,7 +104,7 @@ CSS                      6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2023
+ Last Updated on 01/01/2024
 <!--END_SECTION:waka-->
 
 
