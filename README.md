@@ -79,14 +79,13 @@ Sunday       41 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-HTML                     7 mins              █████████████████░░░░░░░░   69.02% 
-JSON                     3 mins              ███████░░░░░░░░░░░░░░░░░░   30.98%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    10 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -103,7 +102,7 @@ CSS                      6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 29/01/2024
+ Last Updated on 30/01/2024
 <!--END_SECTION:waka-->
 
 
