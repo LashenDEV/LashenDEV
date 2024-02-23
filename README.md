@@ -46,9 +46,9 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 44 Public Repositories 
+> 📜 43 Public Repositories 
  > 
-> 🔑 20 Private Repositories  
+> 🔑 21 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -102,7 +102,7 @@ CSS                      6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 22/02/2024
+ Last Updated on 23/02/2024
 <!--END_SECTION:waka-->
 
 
