@@ -40,7 +40,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 41 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 📦 431.5 kB Used in GitHub's Storage 
  > 
@@ -103,7 +103,7 @@ CSS                      6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 23/05/2024
+ Last Updated on 24/05/2024
 <!--END_SECTION:waka-->
 
 
