@@ -40,7 +40,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 41 Contributions in the Year 2024
  > 
 > 📦 431.5 kB Used in GitHub's Storage 
  > 
@@ -79,14 +79,13 @@ Sunday       32 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Text                     17 mins             █████████████████░░░░░░░░   68.42% 
-Markdown                 7 mins              ████████░░░░░░░░░░░░░░░░░   31.58%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  25 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    25 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -103,7 +102,7 @@ CSS                      6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 24/05/2024
+ Last Updated on 25/05/2024
 <!--END_SECTION:waka-->
 
 
