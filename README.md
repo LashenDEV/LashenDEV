@@ -40,7 +40,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 98 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 📦 431.5 kB Used in GitHub's Storage 
  > 
@@ -102,7 +102,7 @@ HTML                     7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 15/07/2024
+ Last Updated on 16/07/2024
 <!--END_SECTION:waka-->
 
 
