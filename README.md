@@ -1,108 +1,154 @@
-# Hi there, I'm Lashen Kariyawasam 👋
+<h1 align="center">Hi 👋, I'm Lashen Kariyawasam</h1>
 
-### Full-Stack Software Engineer | Spring Boot | Laravel | React.js | Next.js
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Spring+Boot+%7C+.NET+%7C+Laravel;React.js+%7C+Next.js+Enthusiast;Mobile+Dev+(React+Native);Security+Consultant;6%2B+Years+of+Experience" alt="Typing SVG" /></a>
+</p>
 
-🚀 Building scalable and secure web applications with 6+ years of experience
-
-[![GitHub](https://img.shields.io/badge/GitHub-lashendev-black?style=flat&logo=github)](https://github.com/lashendev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/lashendev)
-[![Email](https://img.shields.io/badge/Email-lashendev@gmail.com-red?style=flat&logo=gmail)](mailto:lashendev@gmail.com)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LashenDEV&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://wakatime.com/@0520eced-a9f7-4de2-8791-b3921ad4e367"><img src="https://wakatime.com/badge/user/0520eced-a9f7-4de2-8791-b3921ad4e367.svg" alt="Total time coded since Mar 17 2024" /></a>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-- 🔭 Currently working as a **Freelance Full Stack Developer & Security Consultant**
-- 🎓 Bachelor's in Information and Communication Technology from **Uva Wellassa University** (2021-2025)
-- 💼 Former Full Stack Developer at **Cinnamon Chip Wealth Promoters** and **Cybergate Services**
-- 🌱 Currently learning **Secure Code in Java and Spring Boot**
-- 🔒 Passionate about **web application security** and OWASP standards
-- 📍 Based in Galle, Sri Lanka
-- ⚡ Fun fact: I enjoy drone programming and exploring new technologies
+```typescript
+const lashen = {
+    location: "Galle, Sri Lanka 🇱🇰",
+    role: "Full-Stack Software Engineer",
+    education: "ICT @ Uva Wellassa University (2021-2025)",
+    experience: "6+ years",
+    currentFocus: ["Spring Boot", ".NET", "Security", "Microservices"],
+    interests: ["Web Security", "AI/ML", "Drone Programming"],
+    availableFor: "Freelance Projects & Consultancy"
+};
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/>
+</p>
 
 ### Backend
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="dotnet" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
+</p>
+
+### Mobile
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react-native" width="45" height="45"/>
+</p>
 
 ### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="45" height="45"/>
+</p>
 
-### Mobile Development
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
+### DevOps & Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij" width="45" height="45"/>
+</p>
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+### Cloud
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="azure" width="45" height="45"/>
+</p>
 
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lashendev&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lashendev&layout=compact&theme=transparent)
+### Design
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="45" height="45"/>
+</p>
 
 ---
 
-## ⏱️ WakaTime Coding Stats
+## 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LashenDEV&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=LashenDEV&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=LashenDEV&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@0520eced-a9f7-4de2-8791-b3921ad4e367&theme=transparent)](https://wakatime.com/@0520eced-a9f7-4de2-8791-b3921ad4e367)
-
 ---
 
-## 💼 What I Do
+## 🏆 GitHub Trophies
 
-- 🌐 Build scalable web applications with modern frameworks
-- 🔐 Provide security consultancy following OWASP standards
-- 🔌 Design and implement RESTful APIs
-- 📱 Develop cross-platform applications
-- 🎨 Create responsive and accessible user interfaces
-- 🐳 Deploy applications using Docker and cloud platforms
-- 🔍 Conduct penetration testing and security audits
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LashenDEV&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" />
+</p>
 
----
+## 🌐 Connect With Me
 
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://linkedin.com/in/lashendev)
-- 🌐 [Portfolio](https://lashendev.com)
-- 📝 [Blog](https://blog.lashendev.com)
-- 📧 Email: lashendev@gmail.com
-- 📱 Phone: +94 76 619 64 46
+<p align="center">
+  <a href="https://linkedin.com/in/lashen-kariyawasam-8181aa203"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/14784958/lashen-kariyawasam"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
+  <a href="https://facebook.com/lashen.kariyawasam.3"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://instagram.com/_lashen_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:lashendev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://wakatime.com/@0520eced-a9f7-4de2-8791-b3921ad4e367"><img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white"/></a>
+</p>
 
 ---
 
 ## 🎯 Current Focus
 
-- 🔒 Mastering secure coding practices in Java and Spring Boot
-- 🏗️ Building microservices architecture
-- 🤖 Exploring AI/ML integration in web applications
-- 📚 Contributing to open-source projects
+```diff
++ Mastering secure coding in Java & Spring Boot
++ Building microservices architecture
++ Exploring AI/ML integration in web apps
++ Contributing to open-source projects
+```
 
 ---
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/lashendev">lashendev</a></i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+<p align="center">
+  <i>💡 Open to freelance opportunities and interesting projects!</i>
+</p>
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/LashenDEV">LashenDEV</a> with ❤️</i>
 </p>
