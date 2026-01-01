@@ -103,15 +103,15 @@ const lashen = {
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C994%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C998%20hrs%2038%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-45.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-45.48%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 861.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,179 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -146,18 +146,17 @@ Sunday                   3771 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Java                     9 hrs 38 mins       ██████████████░░░░░░░░░░░   57.93 % 
-TypeScript               6 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   41.70 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Java                     8 hrs 46 mins       ██████████████░░░░░░░░░░░   55.60 % 
+TypeScript               6 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   41.56 % 
+CSS                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-IntelliJ IDEA            9 hrs 39 mins       ██████████████░░░░░░░░░░░   58.00 % 
-WebStorm                 6 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   42.00 % 
+IntelliJ IDEA            8 hrs 47 mins       ██████████████░░░░░░░░░░░   55.67 % 
+WebStorm                 6 hrs 59 mins       ███████████░░░░░░░░░░░░░░   44.33 % 
 
 💻 Operating System: 
-Mac                      16 hrs 38 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -173,7 +172,7 @@ CSS                      8 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2025 18:59:51 UTC
+ Last Updated on 01/01/2026 18:59:38 UTC
 <!--END_SECTION:waka-->
 
 ---
